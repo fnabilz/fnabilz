@@ -1,6 +1,6 @@
-- 👋 Assalamualaikum and hi, I am Fikri 
+Assalamualaikum and hi, I am Fikri 
 - 👀 I’m mostly interested in playing games and enjoying any bit in my life
-- 🌱 I’m currently learning and enhancing my skills on programming in UTM under the Bachelor in Software Enginnering programme
+- 🌱 I’m currently learning and enhancing my skills on programming in UTM under the \bBachelor in Software Enginnering programme\b
 - 💞️ I’m looking to collaborate on more projects while gaining more knowledge
 - 📫 How to reach me @fnabilz
 - ⚡ Fun fact: 
