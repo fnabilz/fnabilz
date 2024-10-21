@@ -3,7 +3,7 @@ Assalamualaikum and hi, my name is Ahmad Fikri Nabil bin Zamri and you can call 
 I'm currently undergoing degree of Bachelor in Software Engineering at Universiti Teknologi Malaysia.
 My goal is to gain more knowledge whilst learning and developing my skills in programming.
 
-## Interest
+## Interests
 I'm mostly interested in playing PC games and enjoying any bit in my life
 
 ## Education
